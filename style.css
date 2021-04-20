@@ -1,3 +1,25 @@
 body {
     text-align: center;
 }
+
+#map {
+    margin-right: 250px;
+}
+
+#csa {
+    background: rgb(249, 156, 11);
+    background: radial-gradient(circle, rgba(249, 156, 11, 1) 0%, rgba(246, 201, 112, 1) 50%, rgba(255, 252, 248, 1) 100%);
+    border-width: 0px;
+    width: 1000px;
+}
+
+#Creative {
+    background: rgb(249, 156, 11);
+    background: radial-gradient(circle, rgba(249, 156, 11, 1) 0%, rgba(246, 201, 112, 1) 50%, rgba(255, 252, 248, 1) 100%);
+}
+#nsd {
+    background: rgb(106,249,11);
+background: radial-gradient(circle, rgba(106,249,11,1) 0%, rgba(112,246,171,1) 50%, rgba(255,252,248,1) 100%);
+    border-width: 0px;
+    width: 1000px;
+}
